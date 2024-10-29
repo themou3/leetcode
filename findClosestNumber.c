@@ -5,6 +5,7 @@
  */
 
 #include <stdio.h>
+#include <stdlib.h>
 
 int findClosestNumber(int* nums, int numsSize);
 int abs_custom(int num);
